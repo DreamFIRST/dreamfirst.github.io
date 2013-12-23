@@ -1,0 +1,9 @@
+# Editor backup files
+*~
+
+# Eclipse project info
+.settings
+.project
+
+# Jekyll
+/_site
