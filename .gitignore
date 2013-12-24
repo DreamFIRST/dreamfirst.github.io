@@ -5,5 +5,8 @@
 .settings
 .project
 
+# Ruby
+/Gemfile.lock
+
 # Jekyll
 /_site
