@@ -1,8 +1,10 @@
 ---
 layout: default
-title: 
+title: null
 navigation_name: home
+published: true
 ---
+
 ## What is Dream FIRST?
 Dream FIRST is a science literacy initiative for children ages 3-10
 developed by FRC Team 178, The Enforcers from Farmington High School in
