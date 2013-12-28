@@ -158,6 +158,18 @@ nav {
 		opacity: 1;
 	}
 
+	#nav::before {
+		content: "";
+		display: block;
+
+		width: 0; height: 0;
+		margin: -12px 0 0px 6px;
+
+		border-left: 10px solid transparent;
+		border-right: 10px solid transparent;
+		border-bottom: 10px solid white;
+	}
+
 	#nav {
 		display: none;
 
@@ -168,10 +180,11 @@ nav {
 		color: black;
 	
 		background-color: white;
-		border: 1px solid rgba(0,0,0,0.4);
+		border: 1px solid rgba(0,0,0,0.3);
 		border-radius: 5px;
+		box-shadow: 0 1px 5px 3px rgba(0,0,0,0.2);
 	}
-	
+
 	#nav li {
 		display: block;
 		width: 100%;
@@ -179,7 +192,6 @@ nav {
 
 	#nav li a {
 		display: block;
-		width: 100%;
 		margin: 0; padding: 3px 12px;
 		color: black !important;
 		text-decoration: none;
@@ -192,18 +204,6 @@ nav {
 
 	#nav li.current::after {
 		display: none;
-	}
-
-	#nav::before {
-		content: "";
-		display: block;
-	
-		width: 0; height: 0;
-		margin: -12px 0 0px 6px;
-	
-		border-left: 10px solid transparent;
-		border-right: 10px solid transparent;
-		border-bottom: 10px solid white;
 	}
 }
 
