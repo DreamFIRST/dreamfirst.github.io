@@ -1,8 +1,8 @@
-onload = function() {
+$(function() {
   $("#menu-toggle").click(function() {
     toggleMenu();
   });
-};
+});
 
 function toggleMenu() {
   visibilityStatus = $("nav ul").css('display');
