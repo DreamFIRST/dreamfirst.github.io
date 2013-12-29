@@ -5,10 +5,10 @@ $(function() {
 });
 
 function toggleMenu() {
-  visibilityStatus = $("nav ul").css('display');
-  if (visibilityStatus == 'none') {
-    $("nav ul").css('display', 'block');
+  visibilityStatus = $("#nav").hasClass('show');
+  if (!visibilityStatus) {
+    $("#nav").addClass('show');
   } else {
-    $("nav ul").css('display', 'none');
+    $("#nav").removeClass('show');
   }
 }
