@@ -17,7 +17,7 @@ friends, Euki and Oliver, as they strive to achieve their dreams of
 understanding science and technology. Their story is told in the book Meet
 Gizmo: The Start of a Journey, published in 2006, and will be continued in
 future installments.
-
+Danielle is here!
 ## How Did It Start?
 In 2004, The Enforcers and Otis expanded their partnership with mentors
 from different sponsors. In addition to constructing robotics, Team 178 and
