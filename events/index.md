@@ -16,3 +16,21 @@ Reading Corner - Kids read the Dream FIRST books, about the adventures of a robo
 Big Book - After reading the book, kids can get their picture taken with Gizmo.
 Coloring and Puzzles - Kids can color in a coloring book and put together puzzles.
 Face Painting - Kids can get their face painted.
+
+
+
+Explore - Curiosity and the drive to learn and explore are key. We use the process of discovery to teach kids various concepts.
+
+Pulley - Learn how pulleys help lift heavy objects.
+Ramp - Learn how ramps help lower the amount of force needed to move an object up.
+Compass - Make a homemade compass and learn why they always point northward.
+Balloon - Learn how thrust can propel a balloon forward.
+Legos - Use legos to build various simple machines.
+VEX - Drive small VEX robots 
+
+Aspire - We aim to inspire kids to pursue their dreams in science and technology.
+
+Big Bot - Learn how to drive the big robot and earn your "Robot Driver's Licence"
+CAD - Learn how to use the Computer Aided Design program, Autodesk Inventor
+
+If you would like to see an event like this in your area, contact us!
