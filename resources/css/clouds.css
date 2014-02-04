@@ -22,6 +22,11 @@
 	-webkit-animation-name: cycleclouds;
 }
 
+.cyclenegclouds {
+	animation-name: cyclenegclouds;
+	-webkit-animation-name: cyclenegclouds;
+}
+
 #cloud1 {
 	background-image: url("../assets/clouds/1.png");
 	width: 160px; height: 100px;
@@ -90,6 +95,10 @@
 	from { margin-left: -100%; }
 	to { margin-left: 0%; }
 }
+@keyframes cyclenegclouds {
+	from { margin-left: 100%; }
+	to { margin-left: 200%; }
+}
 @-webkit-keyframes moveclouds {
 	from { margin-left: 0; }
 	to { margin-left: 100%; }
@@ -97,4 +106,8 @@
 @-webkit-keyframes cycleclouds {
 	from { margin-left: -100%; }
 	to { margin-left: 0%; }
+}
+@-webkit-keyframes cyclenegclouds {
+	from { margin-left: 100%; }
+	to { margin-left: 200%; }
 }
