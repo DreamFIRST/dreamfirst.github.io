@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Books
 navigation_name: books
 published: true
@@ -8,11 +7,11 @@ published: true
 ## Books
 The Books
 
-Dream FIRST, founded by members of FIRST Robotics Team 178, began its mission to inspire young children to have an interest in science and technology through the publication of its first book, Meet Gizmo: The Start of a Journey. Since then, another book has been written and the program has greatly expanded. Read more about Dream FIRST at our about page. 
+Dream FIRST, founded by members of FIRST Robotics Team 178, began its mission to inspire young children to have an interest in science and technology through the publication of its first book, Meet Gizmo: The Start of a Journey. Since then, another book has been written and the program has greatly expanded. Read more about Dream FIRST at our about page.
 
 book banner
 
-What happens when you mix two kids, a robot in a red shed, and a cat? Siblings Euki and Oliver have always known about the red shed by the woods, but never have been inside. When by chance they meet a mysterious robot named Gizmo there, they begin an adventure, finding a passion and helping each other. Follow Gizmo, Oliver, Euki, and Ming as they learn new things and have fun! 
+What happens when you mix two kids, a robot in a red shed, and a cat? Siblings Euki and Oliver have always known about the red shed by the woods, but never have been inside. When by chance they meet a mysterious robot named Gizmo there, they begin an adventure, finding a passion and helping each other. Follow Gizmo, Oliver, Euki, and Ming as they learn new things and have fun!
 
 book banner
 

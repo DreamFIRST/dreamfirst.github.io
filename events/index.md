@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Events
 navigation_name: events
 published: true
@@ -26,7 +25,7 @@ Ramp - Learn how ramps help lower the amount of force needed to move an object u
 Compass - Make a homemade compass and learn why they always point northward.
 Balloon - Learn how thrust can propel a balloon forward.
 Legos - Use legos to build various simple machines.
-VEX - Drive small VEX robots 
+VEX - Drive small VEX robots
 
 <!-- Image removed -->
 

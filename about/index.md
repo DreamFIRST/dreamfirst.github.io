@@ -1,5 +1,4 @@
 ---
-layout: default
 title: About
 navigation_name: about
 published: true
@@ -14,4 +13,4 @@ Dream FIRST is a science literacy initiative for children ages 3-10 developed by
 
 We have designed science and technology activities to complement the ideas in the children's book. These activities revolve around the six main simple machines: inclined plane, wheel and axle, lever, pulley, screw, and wedge. For example, we have a ramp experiment that teaches children about the benefits of using a ramp to reduce the amount of force exerted on a heavy object. Other activities include using LEGO® Simple Machines and VEX robots in order to increase the children’s excitement in science and technology.
 
-Since Dream FIRST was started, these activities have been refined and expanded. We have tested them with children in various settings such as elementary schools, local libraries, Head Start programs, and FIRST events. Our team tries to hold a Dream FIRST event at every competition to entertain the children with useful activities that aid them in their understanding of science concepts. To this date, Dream FIRST has affected over 3,000 children in the United States, Canada, and Jordan. 
+Since Dream FIRST was started, these activities have been refined and expanded. We have tested them with children in various settings such as elementary schools, local libraries, Head Start programs, and FIRST events. Our team tries to hold a Dream FIRST event at every competition to entertain the children with useful activities that aid them in their understanding of science concepts. To this date, Dream FIRST has affected over 3,000 children in the United States, Canada, and Jordan.
