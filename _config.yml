@@ -7,4 +7,4 @@ defaults:
       layout: "default"
 prose:
   media: "files"
-  siteurl: "http://dreamfirst.org"
+  siteurl: "https://dreamfirst.org"
